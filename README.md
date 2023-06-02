@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/u/0/folders/1VTdSpL_SizgsgiFeGagS9bcu7ledzTYu](https://drive.google.com/drive/u/0/folders/1VTdSpL_SizgsgiFeGagS9bcu7ledzTYu)
 
-- 💬 Ask me about **UI Design**
+- 💬 Ask me about **UI/UX Design**
 
 - 📫 How to reach me **aviefrejas@gmail.com**
 
